@@ -49,11 +49,11 @@ $(document).ready(function () {
     $("#hour10 textarea").val(localStorage.getItem("hour10"));
     $("#hour11 textarea").val(localStorage.getItem("hour11"));
     $("#hour12 textarea").val(localStorage.getItem("hour12"));
-    $("#hour1 textarea").val(localStorage.getItem("hour1"));
-    $("#hour2 textarea").val(localStorage.getItem("hour2"));
-    $("#hour3 textarea").val(localStorage.getItem("hour3"));
-    $("#hour4 textarea").val(localStorage.getItem("hour4"));
-    $("#hour5 textarea").val(localStorage.getItem("hour5"));
+    $("#hour13 textarea").val(localStorage.getItem("hour13"));
+    $("#hour14 textarea").val(localStorage.getItem("hour14"));
+    $("#hour15 textarea").val(localStorage.getItem("hour15"));
+    $("#hour16 textarea").val(localStorage.getItem("hour16"));
+    $("#hour17 textarea").val(localStorage.getItem("hour17"));
 
     currentTime();
 });
