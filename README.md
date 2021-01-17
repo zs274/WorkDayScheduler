@@ -24,5 +24,8 @@ At first, I struggled a bit with trying to understand Moment.js and how to prope
 I found this assignment fairly straightforward and much easier to manage than others in the past. I think I gained a lot of confidence in myself and my abilities doing this assignment as I thought I would struggle a lot with jQuery but I didn’t. I really enjoyed this assignment and feel like I learned a lot from it. 
 
 ## Deployed Work Day Scheduler
+https://zs274.github.io/WorkDayScheduler/
+
+
 
 ![passgen](https://user-images.githubusercontent.com/74627515/104839085-e093b200-58b6-11eb-9a86-e12d2c203fd5.gif)
