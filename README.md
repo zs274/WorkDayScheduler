@@ -5,7 +5,7 @@ For this assignment, we were given two starter files - index.html and styles.css
 ## Pseudo Code
 
 The following is my thought process for what I needed to happen.
-1. When the page loads, the time blocks will each have a colour depending on if they’re in the past, present or future.
+1. When the page loads, each time block will have a colour depending on if it’s in the past, present or future.
 2. When the user clicks the input box, they will be able to type something in.
 3. When they click the save button, their entered text will be saved to local storage.
 4. When the page refreshes, the text will still be there. 
