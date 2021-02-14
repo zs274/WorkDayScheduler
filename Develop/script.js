@@ -55,5 +55,6 @@ $(document).ready(function () {
     $("#hour16 textarea").val(localStorage.getItem("hour16"));
     $("#hour17 textarea").val(localStorage.getItem("hour17"));
 
+    // runs function
     currentTime();
 });
